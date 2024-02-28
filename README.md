@@ -1,1 +1,1 @@
-some practice because i want to use cryptopp in my future projects, like in mobile (android), web (wasm), or desktop :)
+some practice because i want to use [cryptopp](https://github.com/weidai11/cryptopp) in my future projects, like in mobile (android), web (wasm), or desktop :)
